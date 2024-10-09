@@ -1,4 +1,4 @@
-# Associate QA Candidate Take-Home Project
+# QA Technical Assessment
 
 Welcome to the QA Take-Home Challenge for **Amplify**! The goal of this project is to evaluate your ability to identify issues in a simple web app, create manual test cases, and implement automated tests where appropriate.
 
