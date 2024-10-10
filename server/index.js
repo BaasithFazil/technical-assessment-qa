@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-let items = [];
+let items = ["Sample Task 1"];
 
 app.get("/items", (req, res) => {
   res.json(items);
