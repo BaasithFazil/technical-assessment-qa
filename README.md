@@ -40,10 +40,12 @@ Your task is to:
 
 Deliverables:
 
-4. Test Plan: A markdown or Word document outlining your test plan, including assumptions and test coverage.
-5. Manual Test Cases: A document listing all test cases (functional, negative, etc.).
-6. Automated Tests: End-to-end tests using Cypress or any framework you prefer.
-7. Submit your project by pushing your changes to your GitHub fork.
+1. Test Plan: A markdown or Word document outlining your test plan, including assumptions and test coverage.
+2. Manual Test Cases: A document listing all test cases (functional, negative, etc.).
+3. Automated Tests: End-to-end tests using Cypress or any framework you prefer.
+4. Submit your project by pushing your changes to your GitHub fork.
+
+You have 3 days to submit your work.
 
 Good luck, and we look forward to reviewing your submission!
 
